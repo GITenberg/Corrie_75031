@@ -1,0 +1,24 @@
+_repo: Corrie_75031
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lynn, Ruth
+    gutenberg_agent_id: '57787'
+    url: http://www.gutenberg.org/2009/agents/57787
+description: ''
+gutenberg_issued: '2025-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75031'
+language: en
+pgterms:marc905: 20240626093218lynn
+pgterms:marc906: '1929'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bThe Religious Tract Society, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Corrie
+url: http://www.gutenberg.org/ebooks/75031
